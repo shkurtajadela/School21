@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/credit.png</file>
+        <file>img/deposit.png</file>
+        <file>img/plot.png</file>
+        <file>img/close.png</file>
+        <file>img/minimize.png</file>
+        <file>img/rpn.png</file>
+        <file>img/fx.png</file>
+    </qresource>
+</RCC>
